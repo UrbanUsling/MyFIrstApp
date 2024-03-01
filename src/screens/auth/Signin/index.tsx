@@ -12,7 +12,7 @@ import GoogleLogin from "../../../components/GoogleLogin";
 
 const Signin = () => {
 
-    const onSignUp = () => {console.log('Hello')}
+    const onSignUp = () => {console.log('Hello!!!')}
 
     return(
 
